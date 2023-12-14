@@ -1,0 +1,7 @@
+20:20:03.317 1151 [main] INFO  c.j.j.c.ClubeControllerTestMemory - Starting ClubeControllerTestMemory using Java 19.0.2 with PID 3500 (started by joaom in C:\Users\joaom\OneDrive\Área de Trabalho\Java\Assesment_Java 2\jms-project-assessment)
+20:20:03.319 1153 [main] DEBUG c.j.j.c.ClubeControllerTestMemory - Running with Spring Boot v3.2.0, Spring v6.1.1
+20:20:03.320 1154 [main] INFO  c.j.j.c.ClubeControllerTestMemory - No active profile set, falling back to 1 default profile: "default"
+20:20:07.234 5068 [main] INFO  c.j.j.controles.ExcecoesController - # Status Code da API do Messi: 200 #
+20:20:07.326 5160 [main] INFO  c.j.j.controles.ExcecoesController - 
+Este foi o gol de número 666 na carreira de Lionel Messi. Ele foi marcado no jogo Eibar 2-2 FC Barcelona, no dia 19-05-2019 em jogo válido pela La Liga aos 31 minutos. A forma que ele marcou o gol foi de Left foot.
+20:20:07.894 5728 [main] INFO  c.j.j.c.ClubeControllerTestMemory - Started ClubeControllerTestMemory in 4.976 seconds (process running for 6.594)
